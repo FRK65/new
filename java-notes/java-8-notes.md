@@ -77,4 +77,17 @@ public class Sum {
 }
 ```
 
+# 2. Benefits of Lamda Expression.
+
+Lambda expressions in Java offer several key benefits:
+
+1. **Concise Syntax**: reduce code, making the code more compact and readable.
+2. **Improved Readability**: making code easier to understand.
+3. **Functional Programming Support**: They enable functional programming.
+4. **Easier Parallelization**: They make it simpler to parallelize data processing with minimal code changes.
+5. **Reduction in Boilerplate**: They eliminate the need for anonymous classes, reducing verbosity.
+6. **Expressive Code**: They allow you to express complex behavior in a more concise and direct manner.
+7. **Behavioral Parameters**: They let you pass functions as parameters.
+8. **Cleaner, Maintainable Code**: 
+
 
